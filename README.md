@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack(learning)
 
 <div align="center">
 
@@ -67,14 +67,15 @@
 
 ### 🛡️ SheShield — Women Safety App
 
-> AI powered women safety web application
+> A women safety web app built as a college project with the help of GitHub Copilot.
 
 <details open>
 <summary><b>✨ Highlights (click to collapse / expand)</b></summary>
 <br/>
 
-- 📍 Real time location tracking using **Leaflet Maps**
-- 🔥 **Firebase** backend and **Progressive Web App**
+- 📍 Share a pinned live location with trusted contacts or publicly
+- 🚓 Show nearby police stations on **Leaflet Maps**, with an option to open them in **Google Maps**
+- 🔥 **Firebase** backend and **Progressive Web App** (installable on a phone)
 
 </details>
 
